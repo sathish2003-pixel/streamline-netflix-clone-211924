@@ -1,1 +1,3 @@
-# streamline-netflix-clone-211924
+# Project Repository
+
+This is the initial README file for the project.
